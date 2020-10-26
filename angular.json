@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "admingalileo"
+    }
+  },
+  "defaultProject": "admingalileo",
+  "cli": {
+    "analytics": false
+  }
 }
